@@ -16,13 +16,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/_data/assets`,
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [{
@@ -60,7 +53,7 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
-    `gatsby-plugin-sass`,
+    `gatsby-plugin-sass`, 
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-dark-mode',
