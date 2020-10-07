@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Our Fertility Journey
+path: /our-fertility-journey
 date: 2020-10-07T04:46:52.921Z
 title: Our Fertility Journey
 ---
