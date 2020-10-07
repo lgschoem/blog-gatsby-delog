@@ -1,8 +1,9 @@
 ---
 template: BlogPost
-path: /Harpers Birth Story
+path: /harpers-birth-story
 date: 2020-10-07T04:49:19.945Z
 title: Harpers Birth Story
+metaDescription: Harpers Birth Story
 thumbnail: /assets/harper new born.jpg
 ---
 July 5th 2019, Friday night after a relaxing night in I was starting to get mild cramps and knew that this was the beginning of your arrival.  At 10.09 I had a bloody show and I was so excited that we were finally going to meet our little rainbow baby.  I thought I better get some sleep before things get super intense, but of course I was tossing and turning ALL night and managed to get ZERO shut eye.  
