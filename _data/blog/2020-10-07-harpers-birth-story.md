@@ -1,9 +1,8 @@
 ---
 template: BlogPost
-path: /harpers-birth-story
+path: /Harpers Birth Story
 date: 2020-10-07T04:49:19.945Z
 title: Harpers Birth Story
-metaDescription: Harpers Birth Story
 thumbnail: /assets/harper new born.jpg
 ---
 July 5th 2019, Friday night after a relaxing night in I was starting to get mild cramps and knew that this was the beginning of your arrival.  At 10.09 I had a bloody show and I was so excited that we were finally going to meet our little rainbow baby.  I thought I better get some sleep before things get super intense, but of course I was tossing and turning ALL night and managed to get ZERO shut eye.  
@@ -20,4 +19,4 @@ As soon as we got to the room I was given Oxytocin and and epidural and the pain
 
 Now that I was pain free I was told to try and sleep as I needed energy for when it was time to push.  At 3.30am on Sunday morning I was finally 9cm!!! I could finally start to see an end in sight.  7am and I could start pushing!!!! with each contraction, they had to count me down so I knew when to push as I was still on pain relief.  Moving different positions every so often, however when I would move to all fours thats when she would move out of position and her heart rate would drop so laying on my back with my legs pushing on what looked like part of a playground was which seemed to be my go to position.  Pushing for 3 hours, I was mentally and physically exhausted....I knew we were going to meet her soon enough but I didn't know what our next steps would be.  I remember thinking, just please not a C-section.  
 
-Shannon decided to get the obstetrician in to talk about about our next steps and options.  As well as I needed a top up as when she did the last internal exam I have never felt so much pain in my life!  So our options were suction or forceps.  I was really leaning towards suction, as it seemed not as invasive, and thankfully she agreed to try that first.  The rest of the team arrived and there was about 9 or 10 people in the room that made it seem like holy shit this is it.....she's is actually finally coming!  With my next contraction I guess they attached the vacuum to her little head, I pushed and popped out she came 36.5 hours later...pain, tears, needles and a battered woo hoo but when she was finally in my arms crying it was totally worth everything that I had experienced.  I now understood what people say about the love for your child, although I was exhausted my heart exploded
+Shannon decided to get the obstetrician in to talk about about our next steps and options.  As well as I needed a top up as when she did the last internal exam I have never felt so much pain in my life!  So our options were suction or forceps.  I was really leaning towards suction, as it seemed not as invasive, and thankfully she agreed to try that first.  The rest of the team arrived and there was about 9 or 10 people in the room that made it seem like holy shit this is it.....she's is actually finally coming!  With my next contraction I guess they attached the vacuum to her little head, I pushed and popped out she came 36.5 hours later...pain, tears, needles and a battered woo hoo but when she was finally in my arms crying it was totally worth everything that I had experienced.  I now understood what people say about the love for your child, although I was exhausted my heart exploded....
